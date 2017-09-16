@@ -1,0 +1,53 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "banner": [
+      {
+        "id": "11",
+        "nav_name": "首页",
+        "image_url": "http://img2.vipbcw.com/2017/03/196d573ec3b763c697fd68910a09a19c",
+        "link": "home",
+        "salt": "1",
+        "path": "home",
+        "image_url_select": "http://img2.vipbcw.com/2017/03/6a023b4f43a70a59f2a07febadf51def"
+      },
+      {
+        "id": "12",
+        "nav_name": "分类",
+        "image_url": "http://img2.vipbcw.com/2017/03/4b0d1a54aa0c757b9a9289889792dacd",
+        "link": "",
+        "salt": "2",
+        "path": "class",
+        "image_url_select": "http://img2.vipbcw.com/2017/03/c9cfbd1e82e80813f5e92ebbfe6ac19d"
+      },
+      {
+        "id": "13",
+        "nav_name": "吃乎",
+        "image_url": "http://img2.vipbcw.com/2017/03/879081bf4dc4c4adfa0ed53f256821fc",
+        "link": "",
+        "salt": "3",
+        "path": "eat",
+        "image_url_select": "http://img2.vipbcw.com/2017/03/9e99665a2b4dc5747f031845c6838e2e"
+      },
+      {
+        "id": "14",
+        "nav_name": "购物车",
+        "image_url": "http://img2.vipbcw.com/2017/03/9df933139fd2e56d3ec17942ca6ed544",
+        "link": "",
+        "salt": "4",
+        "path": "cart",
+        "image_url_select": "http://img2.vipbcw.com/2017/03/c5537d00ae98193a23d79e04cffca10e"
+      },
+      {
+        "id": "15",
+        "nav_name": "我的",
+        "image_url": "http://img2.vipbcw.com/2017/03/58d3978b520113c57bb0b0a256e44d9d",
+        "link": "",
+        "salt": "5",
+        "path": "mine",
+        "image_url_select": "http://img2.vipbcw.com/2017/03/fe41c69f7fdf7ea1546a3a6d627d9195"
+      }
+    ]
+  }
+}

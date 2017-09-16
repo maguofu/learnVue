@@ -1,0 +1,203 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "goods_inventory": "7029",
+    "goods_id": "251",
+    "brand_id": "1",
+    "brand_name": "百草味",
+    "buy_limit_count": "0",
+    "cat_id": "14",
+    "goods_icon": "http://img2.vipbcw.com/2017/06/417ef63965a296d7cf4fb85de0e5d5dd",
+    "goods_imgs": [
+      "http://img2.vipbcw.com/2017/06/1b788c277191dc722a9e7a1e6bf0afe7",
+      "http://img2.vipbcw.com/2017/06/c72a2ae0ddf4ae47f399969e09f0b71b",
+      "http://img2.vipbcw.com/2017/02/7514b068d0c0a2479903dc25a21c8ea6",
+      "http://img2.vipbcw.com/58170a7f8be284799",
+      "http://img2.vipbcw.com/2017/06/9ca521932c12de8788df7bdab5a7d906"
+    ],
+    "goods_title_url": "https://m.vipbcw.com/data-list/detail-goods?id=251&spm=MA==",
+    "goods_info": "<div class=\"content ke-post\" style=\"height: auto;\"><img class=\"desc_anchor img-ks-lazyload\" id=\"desc-module-1\" src=\"https://assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/6ab42c2b9f81a92c7b7e81818e415fe2\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/5e27e6676ddc078702d22c9b2f8b59c4\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/df08f79a33d6873700ee34d54422cc95\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/a703465db1c9c81f1bd99a74d8767e7d\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/531a61fba529c67447320c1a42ac67c3\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/44cf76695e91c7641cc2de815e21cb88\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/2437800ed5230ad6ed6b5d4fb2cb48fd\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/dfd02418c5c04d14e3d0b6138b1b23f7\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/49a985e174831fab123506bfe88f6565\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/f7a1bd2aae12a4125abb0a895d1ce7a5\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/e1f8808247b5784c05eee55dacea5a4c\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/0e518f11f21a0d0ff735880c261693fd\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/ff146f37046c8d66797c01de83bc86b3\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/a3596e1321c24064750550b80adae084\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/3d2257efabcb583fcc1affeea06bf042\" alt=\"\" /></div>",
+    "goods_name": "手撕鱿鱼条80g/袋",
+    "goods_title": "手撕鱿鱼条80g/袋",
+    "goods_subtitle": "每一刻都嚼的想跳海，海的滋味鲜满溢",
+    "goods_specification": "80g/袋",
+    "goods_sn": "6948939612427",
+    "goods_weight": "80",
+    "market_price": "20.8",
+    "shop_price": "10.9",
+    "subtitle": "",
+    "is_promote": 0,
+    "activityIco": "包邮",
+    "activityUrl": "",
+    "act_type": 0,
+    "goods_sale_plan": "全场满68元享包邮",
+    "collection": 0,
+    "goods_status": "1",
+    "national_flag": "",
+    "status": "1",
+    "graphic_detail_url": "https://m.vipbcw.com/home/show-good?id=251",
+    "now_time": 1500021414,
+    "integration_number": 0,
+    "is_shared": 0,
+    "share_bottom_title": "",
+    "share_bottom_words": "",
+    "goods_tips": "",
+    "middle_banner_image_url": "http://img2.vipbcw.com/2017/07/d3f4168a0c65a472e2894989115b377c",
+    "middle_banner_skip_url": "/activity/detail/500",
+    "shop_pirce_color": "",
+    "market_price_color": "",
+    "time_color": "",
+    "background": "",
+    "share_goods_title": "手撕鱿鱼条80g/袋",
+    "share_goods_desc": "手撕鱿鱼条80g/袋",
+    "share_goods_imgs": "http://img2.vipbcw.com/2017/06/417ef63965a296d7cf4fb85de0e5d5dd",
+    "share_goods_link": "https://m.vipbcw.com/data-list/detail-goods?id=251&spm=MA==",
+    "recommend_goods": [
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/58009c503e5602312",
+        "goods_img": "http://img2.vipbcw.com/58009c503e5602312",
+        "goods_id": "563",
+        "goods_name": "阿胶味枣228g/袋",
+        "is_import": "1",
+        "goods_title": "阿胶味枣228g/袋",
+        "goods_subtitle": "美容养颜佳品！软糯不腻、香甜适中的去核阿胶味枣，不仅枣味浓郁，阿胶、甘草一起精炼后，营养加倍，老少皆宜，每天早上刚来几颗气色佳！",
+        "subtitle": "",
+        "market_price": 23.8,
+        "shop_price": "12.90",
+        "sell_number": "1176",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/5832c628875cf2615",
+        "goods_img": "http://img2.vipbcw.com/5832c628875cf2615",
+        "goods_id": "1524",
+        "goods_name": "【进口美食】【2袋装】印尼啪啪通木薯脆片原味50g",
+        "is_import": "1",
+        "goods_title": "【进口美食】【2袋装】印尼啪啪通木薯脆片原味50g",
+        "goods_subtitle": "来自零食王国的木薯片，原味体现食材本身的味道，香脆疏松，咔嚓咔嚓，一口又一口。周末追剧好伴侣！",
+        "subtitle": "",
+        "market_price": 26.6,
+        "shop_price": "14.80",
+        "sell_number": "28",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/581472513fe9e5430",
+        "goods_img": "http://img2.vipbcw.com/581472513fe9e5430",
+        "goods_id": "204",
+        "goods_name": "鱿鱼足80g/袋",
+        "is_import": "0",
+        "goods_title": "鱿鱼足80g/袋",
+        "goods_subtitle": "白白嫩嫩鱿鱼足，每一片都在大海里裸奔过，口感Q弹有嚼劲，完整原片，拿起来不脏手，口口都是海的味道，亲朋聚会，毫不犹豫选择它。",
+        "subtitle": "",
+        "market_price": 20.8,
+        "shop_price": "9.90",
+        "sell_number": "1908",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/03/27cecc91dff651257a295db9c610a77b",
+        "goods_img": "http://img2.vipbcw.com/2017/03/27cecc91dff651257a295db9c610a77b",
+        "goods_id": "206",
+        "goods_name": "风琴手撕鱿鱼片80g/袋",
+        "is_import": "0",
+        "goods_title": "风琴手撕鱿鱼片80g/袋",
+        "goods_subtitle": "如果鱿鱼丝嚼的不够带劲，让鱿鱼片来满足你，海的味道和鱿鱼本身的香味融合一起渗进丝丝纹理里面，时刻挑逗你的食欲。",
+        "subtitle": "",
+        "market_price": 20.8,
+        "shop_price": "10.80",
+        "sell_number": "1833",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2016/12/f3040cbfbd2a5b784f08e9e89c8712a6",
+        "goods_img": "http://img2.vipbcw.com/2016/12/f3040cbfbd2a5b784f08e9e89c8712a6",
+        "goods_id": "832",
+        "goods_name": "烧烤味牛板筋125g",
+        "is_import": "0",
+        "goods_title": "烧烤味牛板筋125g",
+        "goods_subtitle": "一只成年牛只有500g牛板筋，我们只为你献上最美味的牛背部有韧劲又有厚度的2块主大筋，咬起来特别有口感，经典烧烤味，鲜滑细嫩Q弹",
+        "subtitle": "",
+        "market_price": 27.9,
+        "shop_price": "13.90",
+        "sell_number": "1435",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/727e5de1f696b8e53fd1a51dff1ae9b2",
+        "goods_img": "http://img2.vipbcw.com/2017/06/727e5de1f696b8e53fd1a51dff1ae9b2",
+        "goods_id": "787",
+        "goods_name": "2袋装",
+        "is_import": "0",
+        "goods_title": "【2袋装】手撕鱿鱼条80g/袋",
+        "goods_subtitle": "劲儿十足嚼个爽，海的滋味鲜出来",
+        "subtitle": "手撕鱿鱼条80g/袋",
+        "market_price": 41.6,
+        "shop_price": "18.90",
+        "sell_number": "1111",
+        "icon_pic": ""
+      }
+    ],
+    "service_images_url": "http://img2.vipbcw.com/2017/07/742fdb2f1401c7109a2e853fa13eab4d",
+    "instructions": [
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/e35cf6b86ace27fd6686dbbaab800197",
+        "title": "购物赚味豆",
+        "content": "下单即享实付金额等值味豆，首次下单享受双倍味豆"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/18321cd487c65e5e00d70fe5efd494f9",
+        "title": "快速发货",
+        "content": "10大分仓速递，48小时内发货"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/0c492659e9d4566f9408e6710cce4d9e",
+        "title": "正品保障",
+        "content": "品牌直销，品质保证"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/bb57ffd8ba9b052ac0b76585c6bb1ad4",
+        "title": "优质服务",
+        "content": "30天无理由退换货"
+      }
+    ],
+    "comments": {
+      "comments_count": "1385",
+      "comments_list": [
+        {
+          "comment_id": "1436215",
+          "comment_rank": 5,
+          "content": "太好吃了，这就要再买",
+          "comment_img": [],
+          "username": "*******3050",
+          "status": "1",
+          "user_id": "1152803",
+          "head_img": "https://ohhl9dquj.qnssl.com/Fo6cSjhIIQzVjp_RHFtwmaDOU4Wp",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味49天"
+        },
+        {
+          "comment_id": "1436122",
+          "comment_rank": 5,
+          "content": "好吃",
+          "comment_img": [],
+          "username": "吃吃吃",
+          "status": "1",
+          "user_id": "1060725",
+          "head_img": "https://ohhl9dquj.qnssl.com/FmuLt_XoDoWaFrh_dCfR-w2mOwmQ",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味138天"
+        }
+      ]
+    }
+  }
+}

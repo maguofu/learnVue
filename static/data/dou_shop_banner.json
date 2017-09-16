@@ -1,0 +1,92 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": {
+        "banner_list": [
+            {
+                "image_url": "http://img2.vipbcw.com/2017/06/51eff84c867137a594a9d26d63574ca8",
+                "link_url": "/activity/detail/467",
+                "banner_id": "411"
+            }
+        ],
+        "center_list": [],
+        "nav_list": [
+            {
+                "id": "21",
+                "nav_name": "幸运树",
+                "image_url": "http://img2.vipbcw.com/2017/04/23ae6da8c63937825172656d83ffbbad",
+                "link": "/activity/detail/381",
+                "salt": "1",
+                "image_url_select": ""
+            },
+            {
+                "id": "19",
+                "nav_name": "福利抽奖",
+                "image_url": "http://img2.vipbcw.com/2017/04/6ec6614e68edbbf3880a52e0848b2c03",
+                "link": "/activity/detail/286",
+                "salt": "2",
+                "image_url_select": ""
+            },
+            {
+                "id": "17",
+                "nav_name": "赚味豆",
+                "image_url": "http://img2.vipbcw.com/2017/04/683b3abbe217c375c199b5a96791e181",
+                "link": "/integral-mall/earn-peans",
+                "salt": "3",
+                "image_url_select": ""
+            }
+        ],
+        "level_list": [
+            {
+                "level_type": "0",
+                "level_img": "",
+                "level_tip": "v0-v4",
+                "href": "/member/rule?type=3"
+            },
+            {
+                "level_type": "1",
+                "level_img": "",
+                "level_tip": "v1-v4",
+                "href": "/member/rule?type=3"
+            },
+            {
+                "level_type": "2",
+                "level_img": "",
+                "level_tip": "v2-v4",
+                "href": "/member/rule?type=3"
+            },
+            {
+                "level_type": "3",
+                "level_img": "",
+                "level_tip": "v3-v4",
+                "href": "/member/rule?type=3"
+            },
+            {
+                "level_type": "4",
+                "level_img": "",
+                "level_tip": "v4专享",
+                "href": "/member/rule?type=3"
+            }
+        ],
+        "goods_type_list": [
+            {
+                "type_id": "1",
+                "type_name": "实物",
+                "salt": "1"
+            },
+            {
+                "type_id": "0",
+                "type_name": "单品券",
+                "salt": "2"
+            },
+            {
+                "type_id": "2",
+                "type_name": "周边",
+                "salt": "3"
+            }
+        ],
+        "go_upgrade_url": "/member/rule?type=3",
+        "go_earn_beans_url": "/integral-mall/earn-peans",
+        "integration": "100"
+    }
+}

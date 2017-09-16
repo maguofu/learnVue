@@ -1,0 +1,203 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "goods_inventory": "9612",
+    "goods_id": "600",
+    "brand_id": "1",
+    "brand_name": "百草味",
+    "buy_limit_count": "0",
+    "cat_id": "16",
+    "goods_icon": "http://img2.vipbcw.com/5827354ad00186324",
+    "goods_imgs": [
+      "http://img2.vipbcw.com/5827354aa737e7757",
+      "http://img2.vipbcw.com/5827354a9de3e7168",
+      "http://img2.vipbcw.com/2017/06/1c8864950ee33ec147401f22f778897b"
+    ],
+    "goods_title_url": "https://m.vipbcw.com/data-list/detail-goods?id=600&spm=MA==",
+    "goods_info": "<div style=\"height: auto;\" class=\"content ke-post\"><img alt=\"\" class=\"desc_anchor img-ks-lazyload\" id=\"desc-module-1\" src=\"https://assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif\" /><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"790\">    <tbody>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_01.jpg\" src=\"https://img.alicdn.com/imgextra/i3/628189716/TB2Qd_yopXXXXX7XXXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_02.jpg\" src=\"https://img.alicdn.com/imgextra/i2/628189716/TB2Rb6copXXXXalXpXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_03.jpg\" src=\"https://img.alicdn.com/imgextra/i2/628189716/TB2lM15opXXXXbRXpXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>    </tbody></table><img alt=\"\" class=\"desc_anchor img-ks-lazyload\" id=\"desc-module-2\" src=\"https://assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif\" /><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"790\">    <tbody>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_04.jpg\" src=\"https://img.alicdn.com/imgextra/i2/628189716/TB2DDfkopXXXXcGXXXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_05.jpg\" src=\"https://img.alicdn.com/imgextra/i4/628189716/TB2BFTvopXXXXbeXXXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_06.jpg\" src=\"https://img.alicdn.com/imgextra/i4/628189716/TB2MendopXXXXX2XpXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>    </tbody></table><img alt=\"\" class=\"desc_anchor img-ks-lazyload\" id=\"desc-module-3\" src=\"https://assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif\" /><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"790\">    <tbody>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_07.jpg\" src=\"https://img.alicdn.com/imgextra/i4/628189716/TB2jabaopXXXXaIXpXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_08.jpg\" src=\"https://img.alicdn.com/imgextra/i3/628189716/TB2kLCYopXXXXXjXFXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>        <tr>            <td><img class=\"img-ks-lazyload\" alt=\"蓝莓干PC_09.jpg\" src=\"https://img.alicdn.com/imgextra/i4/628189716/TB2l0G3opXXXXcaXpXXXXXXXXXX_!!628189716.jpg\" /></td>        </tr>    </tbody></table><img alt=\"\" class=\"desc_anchor img-ks-lazyload\" id=\"desc-module-4\" src=\"https://assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif\" /></div><p>&nbsp;</p>",
+    "goods_name": "蓝莓干80g/袋 ",
+    "goods_title": "蓝莓干80g/袋 ",
+    "goods_subtitle": "晶莹剔透，酸甜温润，吃完这一口，忍不住再来一颗。早餐来杯蓝莓干的酸奶，美味还护眼。",
+    "goods_specification": "80g/袋",
+    "goods_sn": "6948939629913",
+    "goods_weight": "80",
+    "market_price": "39.8",
+    "shop_price": "19.9",
+    "subtitle": "",
+    "is_promote": 0,
+    "activityIco": "包邮",
+    "activityUrl": "",
+    "act_type": 0,
+    "goods_sale_plan": "全场满68元享包邮",
+    "collection": 0,
+    "goods_status": "1",
+    "national_flag": "",
+    "status": "1",
+    "graphic_detail_url": "https://m.vipbcw.com/home/show-good?id=600",
+    "now_time": 1500021317,
+    "integration_number": 0,
+    "is_shared": 0,
+    "share_bottom_title": "",
+    "share_bottom_words": "",
+    "goods_tips": "",
+    "middle_banner_image_url": "http://img2.vipbcw.com/2017/07/d3f4168a0c65a472e2894989115b377c",
+    "middle_banner_skip_url": "/activity/detail/500",
+    "shop_pirce_color": "",
+    "market_price_color": "",
+    "time_color": "",
+    "background": "",
+    "share_goods_title": "蓝莓干80g/袋 ",
+    "share_goods_desc": "蓝莓干80g/袋 ",
+    "share_goods_imgs": "http://img2.vipbcw.com/5827354ad00186324",
+    "share_goods_link": "https://m.vipbcw.com/data-list/detail-goods?id=600&spm=MA==",
+    "recommend_goods": [
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2016/12/f3040cbfbd2a5b784f08e9e89c8712a6",
+        "goods_img": "http://img2.vipbcw.com/2016/12/f3040cbfbd2a5b784f08e9e89c8712a6",
+        "goods_id": "832",
+        "goods_name": "烧烤味牛板筋125g",
+        "is_import": "0",
+        "goods_title": "烧烤味牛板筋125g",
+        "goods_subtitle": "一只成年牛只有500g牛板筋，我们只为你献上最美味的牛背部有韧劲又有厚度的2块主大筋，咬起来特别有口感，经典烧烤味，鲜滑细嫩Q弹",
+        "subtitle": "",
+        "market_price": 27.9,
+        "shop_price": "13.90",
+        "sell_number": "1435",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/4847627d37d6ef1642db46c412165da1",
+        "goods_img": "http://img2.vipbcw.com/2017/06/4847627d37d6ef1642db46c412165da1",
+        "goods_id": "2317",
+        "goods_name": "罐装",
+        "is_import": "0",
+        "goods_title": "【罐装】抱抱果和田骏枣夹核桃 200g/罐",
+        "goods_subtitle": "爱就抱一抱，枣夹核桃抱一抱，【罐装】“拥”心包装系列",
+        "subtitle": "抱抱果和田骏枣夹核桃 200g/罐",
+        "market_price": 45.8,
+        "shop_price": "17.90",
+        "sell_number": "33",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/3279286a143e01edd7d7ef4faebcac6f",
+        "goods_img": "http://img2.vipbcw.com/2017/06/3279286a143e01edd7d7ef4faebcac6f",
+        "goods_id": "464",
+        "goods_name": "麻辣牛肉200g/袋",
+        "is_import": "0",
+        "goods_title": "麻辣牛肉200g/袋",
+        "goods_subtitle": "牛肉嚼劲，辣椒热情，肉香混合着辛辣，开撩你的胃，看书累了吃一条，瞬间又活力加倍了。",
+        "subtitle": "",
+        "market_price": 53.8,
+        "shop_price": "25.80",
+        "sell_number": "4430",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/582732f012d947534",
+        "goods_img": "http://img2.vipbcw.com/582732f012d947534",
+        "goods_id": "606",
+        "goods_name": "原味风干牛肉116g/袋",
+        "is_import": "0",
+        "goods_title": "原味风干牛肉116g/袋",
+        "goods_subtitle": "好牛出好牛肉干，精选牛肉自然风干，细腻劲道，一口还原游牧情怀，好吃得泪牛满面！",
+        "subtitle": "",
+        "market_price": 65.8,
+        "shop_price": "33.90",
+        "sell_number": "1670",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/bf9149e29dcdbd7b73b7035f730390ad",
+        "goods_img": "http://img2.vipbcw.com/2017/06/bf9149e29dcdbd7b73b7035f730390ad",
+        "goods_id": "373",
+        "goods_name": "山椒味鸭肫115g/袋",
+        "is_import": "0",
+        "goods_title": "山椒味鸭肫115g/袋",
+        "goods_subtitle": "肉质紧实，将川味泡椒独特的辣而不燥、辣中微酸渗透在其中，色泽撩人，味道妙不可言！",
+        "subtitle": "",
+        "market_price": 33.8,
+        "shop_price": "17.80",
+        "sell_number": "836",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/e3bbd6473d936ef2e1a3841e188baead",
+        "goods_img": "http://img2.vipbcw.com/2017/06/e3bbd6473d936ef2e1a3841e188baead",
+        "goods_id": "825",
+        "goods_name": "二级和田骏枣360g/袋",
+        "is_import": "0",
+        "goods_title": "二级和田骏枣360g/袋",
+        "goods_subtitle": "味道甜而不腻，枣壳小果肉甜糯细腻还会回弹，闻着有淡淡的枣香，一丢丢粘牙的感觉都没有。",
+        "subtitle": "",
+        "market_price": 38.8,
+        "shop_price": "21.80",
+        "sell_number": "645",
+        "icon_pic": ""
+      }
+    ],
+    "service_images_url": "http://img2.vipbcw.com/2017/07/742fdb2f1401c7109a2e853fa13eab4d",
+    "instructions": [
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/e35cf6b86ace27fd6686dbbaab800197",
+        "title": "购物赚味豆",
+        "content": "下单即享实付金额等值味豆，首次下单享受双倍味豆"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/18321cd487c65e5e00d70fe5efd494f9",
+        "title": "快速发货",
+        "content": "10大分仓速递，48小时内发货"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/0c492659e9d4566f9408e6710cce4d9e",
+        "title": "正品保障",
+        "content": "品牌直销，品质保证"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/bb57ffd8ba9b052ac0b76585c6bb1ad4",
+        "title": "优质服务",
+        "content": "30天无理由退换货"
+      }
+    ],
+    "comments": {
+      "comments_count": "913",
+      "comments_list": [
+        {
+          "comment_id": "1433776",
+          "comment_rank": 5,
+          "content": "好吃，喜欢，感觉一袋不够吃呀！还要再买！",
+          "comment_img": [
+            "http://img2.vipbcw.com/329376-102.jpg"
+          ],
+          "username": "暴躁的白兔子",
+          "status": "1",
+          "user_id": "589430",
+          "head_img": "http://img2.vipbcw.com/1494472522837.png",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味246天"
+        },
+        {
+          "comment_id": "1433255",
+          "comment_rank": 5,
+          "content": "好吃",
+          "comment_img": [],
+          "username": "*******5457",
+          "status": "1",
+          "user_id": "1170091",
+          "head_img": "http://app.static.vipbcw.com/index_icon/default_header3.png",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味21天"
+        }
+      ]
+    }
+  }
+}

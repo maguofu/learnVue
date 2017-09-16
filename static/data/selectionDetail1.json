@@ -1,0 +1,208 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "goods_inventory": "6165",
+    "goods_id": "764",
+    "brand_id": "1",
+    "brand_name": "百草味",
+    "buy_limit_count": "50",
+    "cat_id": "4",
+    "goods_icon": "http://img2.vipbcw.com/2017/06/d849c33a2a00bb54c47b7b32908eb7f4",
+    "goods_imgs": [
+      "http://img2.vipbcw.com/2016/12/f21a3a61fa90a496e517393e85b3cabd",
+      "http://img2.vipbcw.com/2017/06/fc4181fb7e139caeff6486d346e5ab19",
+      "http://img2.vipbcw.com/2016/12/288207a81bbae0171ebab78edbd2874f",
+      "http://img2.vipbcw.com/2017/06/ff27233a013b080cf28fc20c553ba767"
+    ],
+    "goods_title_url": "https://m.vipbcw.com/data-list/detail-goods?id=764&spm=MA==",
+    "goods_info": "<img src=\"http://img2.vipbcw.com/2016/10/312f05b15a5ec86b0196d10eb926d60c\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/c36528275acb5cd72626a9e62c5c7bc8\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/3350c1558f5ec0faccb37912032701b9\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/cde08b548ce218017862be8efcb32cda\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/487966d93483d35760391369234ad38d\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/34302bf75916f1c8b8b872a15f4db8c2\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/f0e94bcbda94fd94d8880b87b3cf1c7e\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/1e37f253e5407901c41b2fbc9d756ea0\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/89ca108fd05115bf71151491c4f3a6c5\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2016/10/f8fe12f9f58073423648ed430c4bf9d2\" alt=\"\" />",
+    "goods_name": "【3袋装】芒果干120g/袋",
+    "goods_title": "【3袋装】芒果干120g/袋",
+    "goods_subtitle": "闻香识芒果，开袋仿佛入住芒果乡。色泽金黄的芒果干，每一片都光芒万丈，入口酸甜润口、绵密有嚼劲，3袋组合更优惠！",
+    "goods_specification": "120gx3袋",
+    "goods_sn": "6948939607607",
+    "goods_weight": "360",
+    "market_price": "66.8",
+    "shop_price": "32.9",
+    "subtitle": "",
+    "is_promote": 1,
+    "activityIco": "包邮",
+    "activityUrl": "",
+    "act_type": 5,
+    "goods_sale_plan": "全场满68元享包邮",
+    "collection": 0,
+    "goods_status": "1",
+    "national_flag": "",
+    "status": "1",
+    "graphic_detail_url": "https://m.vipbcw.com/home/show-good?id=764",
+    "now_time": 1500021193,
+    "integration_number": 0,
+    "is_shared": 0,
+    "share_bottom_title": "",
+    "share_bottom_words": "",
+    "goods_tips": "",
+    "middle_banner_image_url": "http://img2.vipbcw.com/2017/07/d3f4168a0c65a472e2894989115b377c",
+    "middle_banner_skip_url": "/activity/detail/500",
+    "promote_start_date": 0,
+    "promote_end_date": 0,
+    "icon_pic": "http://img2.vipbcw.com/2017/03/cbdde49e8b18ad2c5768f076d1e61203",
+    "shop_pirce_color": "",
+    "market_price_color": "",
+    "time_color": "",
+    "background": "",
+    "share_goods_title": "【3袋装】芒果干120g/袋",
+    "share_goods_desc": "【3袋装】芒果干120g/袋",
+    "share_goods_imgs": "http://img2.vipbcw.com/2017/06/d849c33a2a00bb54c47b7b32908eb7f4",
+    "share_goods_link": "https://m.vipbcw.com/data-list/detail-goods?id=764&spm=MA==",
+    "recommend_goods": [
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/580b05ebaf6c43654",
+        "goods_img": "http://img2.vipbcw.com/580b05ebaf6c43654",
+        "goods_id": "275",
+        "goods_name": "东北松子200g/袋",
+        "is_import": "0",
+        "goods_title": "东北松子200g/袋",
+        "goods_subtitle": "散发着独特清香的松仁饱满光洁，吃进口中香酥松脆，属性温和，可滋补心肺，工作间隙一盘松子搭配一杯清茶，让你的快乐持续一整天。",
+        "subtitle": "",
+        "market_price": 52.8,
+        "shop_price": "26.80",
+        "sell_number": "3013",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/33f62fb96a318676db4cdae0bfe2bc6b",
+        "goods_img": "http://img2.vipbcw.com/2017/06/33f62fb96a318676db4cdae0bfe2bc6b",
+        "goods_id": "345",
+        "goods_name": "2袋装",
+        "is_import": "0",
+        "goods_title": "【2袋装】蔓越莓干100g/袋",
+        "goods_subtitle": "犹如红宝石般的美味，用白砂糖去掉了它本身较强的酸性，口感甜美不失原味，食来感觉芬芳甜蜜，让妹子越吃越美。",
+        "subtitle": "蔓越莓干100g/袋",
+        "market_price": 35.9,
+        "shop_price": "17.80",
+        "sell_number": "2002",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/6025212e2c2af19febc03bc835137923",
+        "goods_img": "http://img2.vipbcw.com/2017/06/6025212e2c2af19febc03bc835137923",
+        "goods_id": "329",
+        "goods_name": "3袋装",
+        "is_import": "0",
+        "goods_title": "【3袋装】草莓干100g/袋",
+        "goods_subtitle": "草莓是绽放在绿意深处的一抹殷红，果香芬芳，果干酸甜。早餐搭配牛奶，营养健康，晚餐饭后甜品，清甜爽口。",
+        "subtitle": "草莓干100g/袋",
+        "market_price": 58.8,
+        "shop_price": "28.80",
+        "sell_number": "1806",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/1f4cc43493ec8a353b97f437eff9207f",
+        "goods_img": "http://img2.vipbcw.com/2017/06/1f4cc43493ec8a353b97f437eff9207f",
+        "goods_id": "315",
+        "goods_name": "五香味鸭肫115g/袋",
+        "is_import": "0",
+        "goods_title": "五香味鸭肫115g/袋",
+        "goods_subtitle": "五香味是肉类制品里永不过时的经典味道，香味从紧实的鸭肫中层层浸入，打开包装后瞬间涌出，小味根本抵挡不住！工作休息吃两包就有干劲！",
+        "subtitle": "",
+        "market_price": 33.8,
+        "shop_price": "17.80",
+        "sell_number": "1359",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/5805bc73351947792",
+        "goods_img": "http://img2.vipbcw.com/5805bc73351947792",
+        "goods_id": "584",
+        "goods_name": "水果干组合3袋 285g",
+        "is_import": "0",
+        "goods_title": "水果干组合3袋 285g",
+        "goods_subtitle": "组合明细：芒果干+草莓干+水晶柠檬片，酸酸甜甜，大爱的水果干，组合一次齐享。",
+        "subtitle": "",
+        "market_price": 68.5,
+        "shop_price": "29.80",
+        "sell_number": "974",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/f68af16a75b1a8e748e0404f66ec8a60",
+        "goods_img": "http://img2.vipbcw.com/2017/06/f68af16a75b1a8e748e0404f66ec8a60",
+        "goods_id": "437",
+        "goods_name": "2袋装",
+        "is_import": "0",
+        "goods_title": "【2袋装】奶油味手剥山核桃190g/袋",
+        "goods_subtitle": "核桃原香，松脆果仁。两种口味可选：奶油味、椒盐味。",
+        "subtitle": "奶油味手剥山核桃190g/袋",
+        "market_price": 115.6,
+        "shop_price": "39.90",
+        "sell_number": "544",
+        "icon_pic": ""
+      }
+    ],
+    "service_images_url": "http://img2.vipbcw.com/2017/07/742fdb2f1401c7109a2e853fa13eab4d",
+    "instructions": [
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/e35cf6b86ace27fd6686dbbaab800197",
+        "title": "购物赚味豆",
+        "content": "下单即享实付金额等值味豆，首次下单享受双倍味豆"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/18321cd487c65e5e00d70fe5efd494f9",
+        "title": "快速发货",
+        "content": "10大分仓速递，48小时内发货"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/0c492659e9d4566f9408e6710cce4d9e",
+        "title": "正品保障",
+        "content": "品牌直销，品质保证"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/bb57ffd8ba9b052ac0b76585c6bb1ad4",
+        "title": "优质服务",
+        "content": "30天无理由退换货"
+      }
+    ],
+    "comments": {
+      "comments_count": "1715",
+      "comments_list": [
+        {
+          "comment_id": "1436132",
+          "comment_rank": 5,
+          "content": "很好吃。下次还买",
+          "comment_img": [],
+          "username": "*******1234",
+          "status": "1",
+          "user_id": "1037020",
+          "head_img": "https://ohhl9dquj.qnssl.com/FsH3l3hUzgZqm6QlXLYYMfgRjyus",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味165天"
+        },
+        {
+          "comment_id": "1435861",
+          "comment_rank": 5,
+          "content": "第一买哦，很好吃，宝贝们都很喜欢，还会再来的",
+          "comment_img": [],
+          "username": "街尾、相吻",
+          "status": "1",
+          "user_id": "1175189",
+          "head_img": "http://app.static.vipbcw.com/index_icon/default_header1.png",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味9天"
+        }
+      ]
+    },
+    "goods_tags": [
+      "今日推荐"
+    ]
+  }
+}

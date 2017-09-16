@@ -1,0 +1,11 @@
+{
+  "result_code": "1003",
+  "result_info": "未登录",
+  "result_data": {
+    "token": "token",
+    "uid": 0,
+    "wechatInfo": [
+      
+    ]
+  }
+}

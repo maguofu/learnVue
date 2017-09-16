@@ -1,0 +1,101 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "list": [
+      {
+        "id": "40",
+        "title": "推荐",
+        "version": "1.0.0",
+        "url": "",
+        "salt": "0",
+        "image_url": "",
+        "selected": "1",
+        "name": "home"
+      },
+      {
+        "id": "51",
+        "title": "",
+        "version": "2.1.2",
+        "url": "/activity/tpl/95",
+        "salt": "1",
+        "image_url": "http://img2.vipbcw.com/2017/06/d0e67e71a72f49d33b397e8ed3b1770f",
+        "selected": "0",
+        "name": "bogof"
+      },
+      {
+        "id": "41",
+        "title": "坚果炒货",
+        "version": "1.0.0",
+        "url": "",
+        "salt": "3",
+        "image_url": "",
+        "selected": "0",
+        "name": "nut"
+      },
+      {
+        "id": "42",
+        "title": "果干蜜饯",
+        "version": "1.0.0",
+        "url": "",
+        "salt": "4",
+        "image_url": "",
+        "selected": "0",
+        "name": "sweetmeat"
+      },
+      {
+        "id": "45",
+        "title": "进口美食",
+        "version": "1.0.0",
+        "url": "",
+        "salt": "4",
+        "image_url": "",
+        "selected": "0",
+        "name": "import"
+      },
+      {
+        "id": "43",
+        "title": "肉脯海鲜",
+        "version": "1.0.0",
+        "url": "",
+        "salt": "5",
+        "image_url": "",
+        "selected": "0",
+        "name": "seafood"
+      },
+      {
+        "id": "44",
+        "title": "糕点糖果",
+        "version": "1.0.0",
+        "url": "",
+        "salt": "6",
+        "image_url": "",
+        "selected": "0",
+        "name": "candy"
+      },
+      {
+        "id": "46",
+        "title": "豆干素食",
+        "version": "1.0.0",
+        "url": "",
+        "salt": "7",
+        "image_url": "",
+        "selected": "0",
+        "name": "driedtofu"
+      }
+    ],
+    "default_search_words": "王者农药零食专场",
+    "default_search_words_new": {
+      "word": "王者农药零食专场",
+      "url": "https://m.vipbcw.com/activity/detail/486.html"
+    },
+    "suspension_btn": {
+      "left_image_url": "",
+      "right_image_url": "",
+      "skip_url": "",
+      "start_time": 86400,
+      "end_time": 1705017600,
+      "window_type": "1"
+    }
+  }
+}

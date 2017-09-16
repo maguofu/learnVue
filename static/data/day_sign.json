@@ -1,0 +1,135 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": {
+        "good_double_id": [
+            {
+                "goods": [
+                    {
+                        "id": "2313",
+                        "goods_name": "手撕面包（提子味）240g/盒",
+                        "goods_subtitle": "早餐糕点记得好好吃早餐。每盒内含6包独立小包装，美味齐分享。",
+                        "shop_price": "1190",
+                        "market_price": "2580",
+                        "goods_img": "http://img2.vipbcw.com/2017/07/18a31995796fd7f23446367dca9a5902",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "2314",
+                        "goods_name": "蔓越莓牛轧奶芙 160g/袋",
+                        "goods_subtitle": "牛轧糖与烤芙的相遇，味蕾的美妙体验。内含10袋独立小包装，分享更美味",
+                        "shop_price": "1190",
+                        "market_price": "2590",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/1adee9112ca85bb7c1410b5c49f106ff",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "2312",
+                        "goods_name": "【第二份半价】切片吐司 405g/盒",
+                        "goods_subtitle": "进口牛奶和面，做一片精致的【醇香松软】吐司。内含6小包独立包装，分享更美味",
+                        "shop_price": "1990",
+                        "market_price": "3890",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/79917faea9c2213f0cec825371654fe6",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "236",
+                        "goods_name": "精制猪肉脯（长方片）200g/袋",
+                        "goods_subtitle": "脸色红亮似关公，每一片肉的战斗力都很强。独立小包装，美味齐分享。",
+                        "shop_price": "1990",
+                        "market_price": "3980",
+                        "goods_img": "http://img2.vipbcw.com/2016/12/f67a353716e8e273669b711873fa1bea",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "260",
+                        "goods_name": "猪肉枣180g/袋 烟熏味小香肠",
+                        "goods_subtitle": "薄薄肠衣包裹着鲜嫩诱人的猪肉，每一口都相当有嚼劲，肉质紧实，吃着吃着还会有甜甜的味道，那是小味甜甜的爱。",
+                        "shop_price": "1790",
+                        "market_price": "3980",
+                        "goods_img": "http://img2.vipbcw.com/2016/12/2615b9488fe94de9cc41e97004a46e93",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "329",
+                        "goods_name": "【3袋装】草莓干100g/袋",
+                        "goods_subtitle": "草莓是绽放在绿意深处的一抹殷红，果香芬芳，果干酸甜。早餐搭配牛奶，营养健康，晚餐饭后甜品，清甜爽口。",
+                        "shop_price": "2880",
+                        "market_price": "5880",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/6025212e2c2af19febc03bc835137923",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "328",
+                        "goods_name": "【2袋装】芒果干120g/袋",
+                        "goods_subtitle": "闻香识芒果，开袋仿佛入住芒果乡。色泽金黄的芒果干，每一片都光芒万丈，入口酸甜润口、绵密有嚼劲，聚会手快有手慢无。",
+                        "shop_price": "2390",
+                        "market_price": "5280",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/bb2e5084dbe7cf788a2f91929f5ed054",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "333",
+                        "goods_name": "【2袋装】黑加仑葡萄干200g/袋",
+                        "goods_subtitle": "葡萄干界的黑美人，饱满有嚼劲，甘心为烘焙小公主打辅助，在曲奇、面包里加它，让食物画风一下子精美了，加在早餐的酸奶口感一下子丰富了",
+                        "shop_price": "2580",
+                        "market_price": "5280",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/960c155b3f5a87839568b4afa1c6504c",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "336",
+                        "goods_name": "【3袋装】即食柠檬片65g/袋",
+                        "goods_subtitle": "无需冲泡，想吃就吃，每日柠檬C，天天美白肌。",
+                        "shop_price": "2390",
+                        "market_price": "4480",
+                        "goods_img": "http://img2.vipbcw.com/2016/12/c06c25dccf8f6c300a9fbc9caf75311f",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "426",
+                        "goods_name": "香酥小黄鱼200g/袋",
+                        "goods_subtitle": "吃小鱼最烦的是腥味的鱼头，让你不能大快朵颐，所以去掉鱼头的，外酥里嫩的，鲜香不油腻的的小黄鱼就成为你的首选，搭配米饭能干三大碗。",
+                        "shop_price": "1490",
+                        "market_price": "3390",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/7482308c75f8465b78af697034f39847",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "457",
+                        "goods_name": "XO酱味牛肉粒100g/袋",
+                        "goods_subtitle": "牛肉蛋白含量高还不易发胖，每颗都是骰子大小，走心的味道才能hold住挑剔的嘴，吃一粒总是让人久久眷恋。",
+                        "shop_price": "1790",
+                        "market_price": "3990",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/afc0d36a417b8a6dac37e9bf76b00387",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "600",
+                        "goods_name": "蓝莓干80g/袋 ",
+                        "goods_subtitle": "晶莹剔透，酸甜温润，吃完这一口，忍不住再来一颗。早餐来杯蓝莓干的酸奶，美味还护眼。",
+                        "shop_price": "1990",
+                        "market_price": "3980",
+                        "goods_img": "http://img2.vipbcw.com/5827354ad00186324",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    }
+                ],
+                "nav_word": "",
+                "main_image_url": ""
+            }
+        ],
+        "activity_type": "0"
+    }
+}

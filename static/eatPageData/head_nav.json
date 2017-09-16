@@ -1,0 +1,23 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "list": [
+      {
+        "title": "日常",
+        "type": "1",
+        "image_logo": "http:\/\/img2.vipbcw.com\/2017\/05\/3438afe88e7e047b62b2c2b79b7885f1"
+      },
+      {
+        "title": "帮你挑",
+        "type": "2",
+        "image_logo": "http:\/\/img2.vipbcw.com\/2017\/05\/9bd174029791f8162cc4cec53cec8951"
+      },
+      {
+        "title": "涨姿势",
+        "type": "3",
+        "image_logo": "http:\/\/img2.vipbcw.com\/2017\/05\/866ff5f51c7c2c214984432b94fe122c"
+      }
+    ]
+  }
+}

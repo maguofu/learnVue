@@ -1,0 +1,142 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "top": [
+      {
+        "cat_id": "65",
+        "cat_name": "处女座专场",
+        "parent_id": "0",
+        "sort_order": "50",
+        "image_url": "http://img2.vipbcw.com/2017/01/c4932a969b7ce2aef0cbd64be88e3b1a",
+        "skip_url": ""
+      },
+      {
+        "cat_id": "64",
+        "cat_name": "抗霾专场",
+        "parent_id": "0",
+        "sort_order": "52",
+        "image_url": "http://img2.vipbcw.com/2017/02/64ad397fa930136359a7ea03bb7a0bdf",
+        "skip_url": ""
+      },
+      {
+        "cat_id": "67",
+        "cat_name": "进口美食",
+        "parent_id": "0",
+        "sort_order": "53",
+        "image_url": "http://img2.vipbcw.com/2016/12/c83ad136464176eae63dc9624ac11ff2",
+        "skip_url": ""
+      }
+    ],
+    "bottom": [
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/9b1a99345df13040f3c7deae21485954",
+        "image_icon": "http://img2.vipbcw.com/2017/02/161d47cca8f170ec4bd0db7dc17c4d6f",
+        "cat_id": "75",
+        "cat_name": "热卖爆款",
+        "parent_id": "0",
+        "sort_order": "1",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/49e0dce847e6df67abb84921c2b6a546",
+        "image_icon": "http://img2.vipbcw.com/2017/02/e7476bc84523311133d5e5d43357b133",
+        "cat_id": "2",
+        "cat_name": "坚果炒货",
+        "parent_id": "0",
+        "sort_order": "2",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/e92d3501d3af367a81ada08fc27cc505",
+        "image_icon": "http://img2.vipbcw.com/2017/02/87f578d244c1676ec988265ff86ff456",
+        "cat_id": "4",
+        "cat_name": "果干蜜饯",
+        "parent_id": "0",
+        "sort_order": "3",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/343eb67bce910abfca2c3c6c9dfb1c45",
+        "image_icon": "http://img2.vipbcw.com/2017/02/ecfd7d3c346974f1897f0a26435a3510",
+        "cat_id": "3",
+        "cat_name": "肉脯海鲜",
+        "parent_id": "0",
+        "sort_order": "4",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/5beafe4cb3d782bfd4f8496defd1b959",
+        "image_icon": "http://img2.vipbcw.com/2017/02/177cf4971511b93ee5c468a1f1daac84",
+        "cat_id": "5",
+        "cat_name": "糕点糖果",
+        "parent_id": "0",
+        "sort_order": "5",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/15e759e0c20e4dad1c9d7f4c9e0acb06",
+        "image_icon": "http://img2.vipbcw.com/2017/02/992c9dadab3ef292f298cf0e03fcb5e8",
+        "cat_id": "40",
+        "cat_name": "豆干素食",
+        "parent_id": "0",
+        "sort_order": "6",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/53f060bfc6e3c00dd52a34f4f70b3ecc",
+        "image_icon": "http://img2.vipbcw.com/2017/02/0cb42835777f956c3faec1577e24c097",
+        "cat_id": "78",
+        "cat_name": "进口零食",
+        "parent_id": "0",
+        "sort_order": "7",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/f01ea190c7a467d5b209cfa4fe4c018a",
+        "image_icon": "http://img2.vipbcw.com/2017/02/0a659a725e9e1e5369937ee3ddeb4c05",
+        "cat_id": "77",
+        "cat_name": "进口冲饮",
+        "parent_id": "0",
+        "sort_order": "8",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/67c4265d1bf54f0b853709804a4ed5b6",
+        "image_icon": "http://img2.vipbcw.com/2017/02/ee8ec9be26aa09b7b8594ca1fdac07eb",
+        "cat_id": "79",
+        "cat_name": "进口糖果",
+        "parent_id": "0",
+        "sort_order": "9",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/95b00550d201ba040dd1653610957687",
+        "image_icon": "http://img2.vipbcw.com/2017/02/df260898da27380593026bed3e0f3f28",
+        "cat_id": "61",
+        "cat_name": "超值礼盒",
+        "parent_id": "0",
+        "sort_order": "10",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/9712e4da91c7af47ab3d4139e88faa17",
+        "image_icon": "<?php echo $cateList['image_icon']; ?>",
+        "cat_id": "63",
+        "cat_name": "新鲜短保",
+        "parent_id": "0",
+        "sort_order": "51",
+        "skip_url": ""
+      },
+      {
+        "image_url": "http://img2.vipbcw.com/2017/03/ab406c0313f25c562d64bc07685c6dd2",
+        "image_icon": "<?php echo $cateList['image_icon']; ?>",
+        "cat_id": "66",
+        "cat_name": "扛饿神器",
+        "parent_id": "0",
+        "sort_order": "54",
+        "skip_url": ""
+      }
+    ]
+  }
+}

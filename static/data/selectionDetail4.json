@@ -1,0 +1,202 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "goods_inventory": "8438",
+    "goods_id": "336",
+    "brand_id": "1",
+    "brand_name": "百草味",
+    "buy_limit_count": "0",
+    "cat_id": "16",
+    "goods_icon": "http://img2.vipbcw.com/2016/12/c06c25dccf8f6c300a9fbc9caf75311f",
+    "goods_imgs": [
+      "http://img2.vipbcw.com/2016/12/c4b4b7ce5cee727181d907b7905abbf5",
+      "http://img2.vipbcw.com/581409659066a1543",
+      "http://img2.vipbcw.com/2017/06/17768c226d69595995d6d4c887eb78ba",
+      "http://img2.vipbcw.com/2016/12/f61db90d31eabdf9f6a45ccff5321fdb"
+    ],
+    "goods_title_url": "https://m.vipbcw.com/data-list/detail-goods?id=336&spm=MA==",
+    "goods_info": "<p><span style=\"font-size:undefined;\"><img alt=\"\" src=\"http://assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif\" id=\"desc-module-4\" class=\"desc_anchor\" />温馨提醒：此款产品现在包装升级中，此间您将可能收到有两种不同包装，品质一致，请亲知晓哦！</span></p><p><span style=\"font-size:undefined;\"><img src=\"http://img2.vipbcw.com/2017/03/4224368a90050a27fadb47caacb6dbaa\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/c417bf55e954e4bf51c7a04acc6cd6a5\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/e784bdf1870a62d0b43edff00ffc814d\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/520adae832c7de3704afc4fd74902486\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/afa5614b58f9fe92884d9f0ca505a1ab\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/bc36c82b37149750561a99bef5fe29b7\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/af1f39fbc148ac17285623952a553069\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/1d1529171c35f735678cdc823416482e\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/03/72344ee1c80ccc1819bd67510687cd3b\" alt=\"\" /><br /></span></p>",
+    "goods_name": "【3袋装】即食柠檬片65g/袋",
+    "goods_title": "【3袋装】即食柠檬片65g/袋",
+    "goods_subtitle": "无需冲泡，想吃就吃，每日柠檬C，天天美白肌。",
+    "goods_specification": "65g/袋×3袋",
+    "goods_sn": "6948939621375",
+    "goods_weight": "195",
+    "market_price": "44.8",
+    "shop_price": "23.9",
+    "subtitle": "",
+    "is_promote": 0,
+    "activityIco": "包邮",
+    "activityUrl": "",
+    "act_type": 0,
+    "goods_sale_plan": "全场满68元享包邮",
+    "collection": 0,
+    "goods_status": "1",
+    "national_flag": "",
+    "status": "1",
+    "graphic_detail_url": "https://m.vipbcw.com/home/show-good?id=336",
+    "now_time": 1500021366,
+    "integration_number": 0,
+    "is_shared": 0,
+    "share_bottom_title": "",
+    "share_bottom_words": "",
+    "goods_tips": "",
+    "middle_banner_image_url": "http://img2.vipbcw.com/2017/07/d3f4168a0c65a472e2894989115b377c",
+    "middle_banner_skip_url": "/activity/detail/500",
+    "shop_pirce_color": "",
+    "market_price_color": "",
+    "time_color": "",
+    "background": "",
+    "share_goods_title": "【3袋装】即食柠檬片65g/袋",
+    "share_goods_desc": "【3袋装】即食柠檬片65g/袋",
+    "share_goods_imgs": "http://img2.vipbcw.com/2016/12/c06c25dccf8f6c300a9fbc9caf75311f",
+    "share_goods_link": "https://m.vipbcw.com/data-list/detail-goods?id=336&spm=MA==",
+    "recommend_goods": [
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/bb4df76c3cb1b89bac60b30246034c9b",
+        "goods_img": "http://img2.vipbcw.com/2017/06/bb4df76c3cb1b89bac60b30246034c9b",
+        "goods_id": "1331",
+        "goods_name": "3袋装",
+        "is_import": "0",
+        "goods_title": "【3袋装】蔓越莓干100g/袋",
+        "goods_subtitle": "犹如红宝石般的美味，用白砂糖去掉了它本身较强的酸性，口感甜美不失原味，食来感觉芬芳甜蜜，让妹子越吃越美。",
+        "subtitle": "蔓越莓干100g/袋",
+        "market_price": 51.8,
+        "shop_price": "26.80",
+        "sell_number": "338",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/5805d862780e16875",
+        "goods_img": "http://img2.vipbcw.com/5805d862780e16875",
+        "goods_id": "582",
+        "goods_name": "坚果组合3袋装共590g 夏威夷果+碧根果+东北松子",
+        "is_import": "0",
+        "goods_title": "坚果组合3袋装共590g 夏威夷果+碧根果+东北松子",
+        "goods_subtitle": "细腻柔滑夏威夷果、香酥东北松子、肉厚易剥碧根果，合体诱惑你。多种坚果组合瞬间治愈选择困难的吃货宝宝，过年过节，全家共享。",
+        "subtitle": "",
+        "market_price": 102.7,
+        "shop_price": "59.90",
+        "sell_number": "1230",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/d849c33a2a00bb54c47b7b32908eb7f4",
+        "goods_img": "http://img2.vipbcw.com/2017/06/d849c33a2a00bb54c47b7b32908eb7f4",
+        "goods_id": "764",
+        "goods_name": "3袋装",
+        "is_import": "0",
+        "goods_title": "【3袋装】芒果干120g/袋",
+        "goods_subtitle": "闻香识芒果，开袋仿佛入住芒果乡。色泽金黄的芒果干，每一片都光芒万丈，入口酸甜润口、绵密有嚼劲，3袋组合更优惠！",
+        "subtitle": "芒果干120g/袋",
+        "market_price": 66.8,
+        "shop_price": "32.90",
+        "sell_number": "6494",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/06/27ecab496f9923befe9df37f33ecf9db",
+        "goods_img": "http://img2.vipbcw.com/2017/06/27ecab496f9923befe9df37f33ecf9db",
+        "goods_id": "747",
+        "goods_name": "2袋装",
+        "is_import": "0",
+        "goods_title": "【2袋装】精制猪肉脯（长方片）200g/袋",
+        "goods_subtitle": "就好这口肉，有酒有肉把言欢。独立小包装，美味齐分享。",
+        "subtitle": "精制猪肉脯（长方片）200g/袋",
+        "market_price": 77.8,
+        "shop_price": "37.80",
+        "sell_number": "1148",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/5805bc73351947792",
+        "goods_img": "http://img2.vipbcw.com/5805bc73351947792",
+        "goods_id": "584",
+        "goods_name": "水果干组合3袋 285g",
+        "is_import": "0",
+        "goods_title": "水果干组合3袋 285g",
+        "goods_subtitle": "组合明细：芒果干+草莓干+水晶柠檬片，酸酸甜甜，大爱的水果干，组合一次齐享。",
+        "subtitle": "",
+        "market_price": 68.5,
+        "shop_price": "29.80",
+        "sell_number": "974",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2016/12/0a3c184cfda0f33308cc71d855475a87",
+        "goods_img": "http://img2.vipbcw.com/2016/12/0a3c184cfda0f33308cc71d855475a87",
+        "goods_id": "330",
+        "goods_name": "2袋装",
+        "is_import": "0",
+        "goods_title": "【2袋装】白桃干100g/袋",
+        "goods_subtitle": "浓浓的桃子香不是只有春夏才能闻到，饱满多汁的蜜桃，修炼成白里透红的桃干，少了剥皮的麻烦，去掉了恼人的桃核，只留让人”桃“醉的香甜",
+        "subtitle": "白桃干100g/袋",
+        "market_price": 32.8,
+        "shop_price": "17.90",
+        "sell_number": "730",
+        "icon_pic": ""
+      }
+    ],
+    "service_images_url": "http://img2.vipbcw.com/2017/07/742fdb2f1401c7109a2e853fa13eab4d",
+    "instructions": [
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/e35cf6b86ace27fd6686dbbaab800197",
+        "title": "购物赚味豆",
+        "content": "下单即享实付金额等值味豆，首次下单享受双倍味豆"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/18321cd487c65e5e00d70fe5efd494f9",
+        "title": "快速发货",
+        "content": "10大分仓速递，48小时内发货"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/0c492659e9d4566f9408e6710cce4d9e",
+        "title": "正品保障",
+        "content": "品牌直销，品质保证"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/bb57ffd8ba9b052ac0b76585c6bb1ad4",
+        "title": "优质服务",
+        "content": "30天无理由退换货"
+      }
+    ],
+    "comments": {
+      "comments_count": "1138",
+      "comments_list": [
+        {
+          "comment_id": "1436082",
+          "comment_rank": 5,
+          "content": "好吃",
+          "comment_img": [],
+          "username": "*******9900",
+          "status": "1",
+          "user_id": "1073021",
+          "head_img": "http://img2.vipbcw.com/wap/none_head.png",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味119天"
+        },
+        {
+          "comment_id": "1435993",
+          "comment_rank": 5,
+          "content": "经常在你家买吃的，都很好吃啊",
+          "comment_img": [],
+          "username": "毛毛",
+          "status": "1",
+          "user_id": "499566",
+          "head_img": "http://img2.vipbcw.com/1498204534668.png",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味253天"
+        }
+      ]
+    }
+  }
+}

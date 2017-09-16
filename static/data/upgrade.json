@@ -1,0 +1,36 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": [
+        {
+            "id": "76",
+            "level_type": "-1",
+            "banner_name": "升级礼包",
+            "image_url": "http://img2.vipbcw.com/2017/07/e4ebc06eea5aeaa2751de11b5d54c08d",
+            "start_time": "1499702400",
+            "end_time": "1514649600",
+            "link": "",
+            "salt": "0",
+            "link_type": "1",
+            "lock_type": "1",
+            "create_time": "1499758548",
+            "update_time": "1499758548",
+            "status": "0"
+        },
+        {
+            "id": "78",
+            "level_type": "-1",
+            "banner_name": "生日礼包",
+            "image_url": "http://img2.vipbcw.com/2017/07/8c9fd3a51f068c4d6a8fe41078472e17",
+            "start_time": "1499702400",
+            "end_time": "1514649600",
+            "link": "",
+            "salt": "0",
+            "link_type": "2",
+            "lock_type": "1",
+            "create_time": "1499758666",
+            "update_time": "1499758666",
+            "status": "0"
+        }
+    ]
+}

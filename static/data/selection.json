@@ -1,0 +1,84 @@
+{
+ 
+        "data":[
+          {
+            "id": "1105",
+            "type_id": "15",
+            "image_url": "http://img2.vipbcw.com/2017/06/d167abb9b25664bc57b18af27e68bc6e",
+            "goods_describe": "",
+            "skip_url": "",
+            "goods_name": "",
+            "goods_price": "11.9",
+            "market_price": "25.8",
+            "goods_little_icon": "",
+            "special_name": "",
+            "goods_id": "2313"
+          },
+          {
+            "id": "1082",
+            "type_id": "15",
+            "image_url": "http://img2.vipbcw.com/2017/06/862b1d315bfc3db380233dafac735526",
+            "goods_describe": "",
+            "skip_url": "",
+            "goods_name": "",
+            "goods_price": "29.9",
+            "market_price": "66.8",
+            "goods_little_icon": "",
+            "special_name": "",
+            "goods_id": "764"
+          },
+          {
+            "id": "1083",
+            "type_id": "15",
+            "image_url": "http://img2.vipbcw.com/2017/06/3cbd81106c658910270fc6962bfcd422",
+            "goods_describe": "",
+            "skip_url": "",
+            "goods_name": "",
+            "goods_price": "13.9",
+            "market_price": "25.9",
+            "goods_little_icon": "",
+            "special_name": "",
+            "goods_id": "2284"
+          },
+          {
+            "id": "1084",
+            "type_id": "15",
+            "image_url": "http://img2.vipbcw.com/2017/06/beb7c5898eef8ef5dc4278801bf0e0ae",
+            "goods_describe": "",
+            "skip_url": "",
+            "goods_name": "",
+            "goods_price": "19.9",
+            "market_price": "39.8",
+            "goods_little_icon": "",
+            "special_name": "",
+            "goods_id": "600"
+          },
+          {
+            "id": "1085",
+            "type_id": "15",
+            "image_url": "http://img2.vipbcw.com/2017/06/67a7256158f165455a10a4d7cc5bda89",
+            "goods_describe": "",
+            "skip_url": "",
+            "goods_name": "",
+            "goods_price": "23.9",
+            "market_price": "44.8",
+            "goods_little_icon": "",
+            "special_name": "",
+            "goods_id": "336"
+          },
+          {
+            "id": "1086",
+            "type_id": "15",
+            "image_url": "http://img2.vipbcw.com/2017/06/d0cf11755385c23cc78868fe990139d8",
+            "goods_describe": "",
+            "skip_url": "",
+            "goods_name": "",
+            "goods_price": "9.9",
+            "market_price": "20.8",
+            "goods_little_icon": "",
+            "special_name": "",
+            "goods_id": "251"
+          }
+          ]
+}
+

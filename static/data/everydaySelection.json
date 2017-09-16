@@ -1,0 +1,122 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "list_head": {
+      "image_url": "http://img2.vipbcw.com/2017/06/31bb20e64204d058978a839454d5b52e",
+      "special_name": "每日优选",
+      "wide": "750",
+      "high": "120",
+      "margin_up": 0,
+      "margin_down": 0
+    },
+    "list": [
+      {
+        "goods_id": "348",
+        "goods_name": "奶油味碧根果190g*2袋",
+        "goods_describe": "奶油小生，轻松捏捏裂",
+        "image_url": "http://img2.vipbcw.com/2017/06/863d747725431e4d0dc3734ed9444dfe",
+        "goods_price": "34.90",
+        "salt": "1",
+        "type": 1,
+        "inventory_number": 7758
+      },
+      {
+        "goods_id": "351",
+        "goods_name": "草莓干100g*2袋",
+        "goods_describe": "少女心不灭，草莓干不断！",
+        "image_url": "http://img2.vipbcw.com/2017/04/b6669ac514c685028519f3f4c301db15",
+        "goods_price": "18.90",
+        "salt": "2",
+        "type": 1,
+        "inventory_number": 7188
+      },
+      {
+        "goods_id": "764",
+        "goods_name": "芒果干120g*3袋",
+        "goods_describe": "一口吃出阳光大鲜芒的味道",
+        "image_url": "http://img2.vipbcw.com/2017/04/5a4af087d2e13daa8b150d25112d3cde",
+        "goods_price": "31.90",
+        "salt": "4",
+        "type": 1,
+        "inventory_number": 6255
+      },
+      {
+        "goods_id": "335",
+        "goods_name": "熟板栗仁80g*3袋",
+        "goods_describe": "香甜软糯好果仁，一袋怎够分",
+        "image_url": "http://img2.vipbcw.com/2017/06/1e5e798aa61144bb5e2601a03fcd61b9",
+        "goods_price": "19.90",
+        "salt": "5",
+        "type": 1,
+        "inventory_number": 8326
+      },
+      {
+        "goods_id": "775",
+        "goods_name": "【3袋装】黄金豆玉米豆130g/袋",
+        "goods_describe": "捧着爆米花追剧吹空调一整天不出门",
+        "image_url": "http://img2.vipbcw.com/2017/04/f10648ca539c76a0d3cb1d6f0c18a713",
+        "goods_price": "16.90",
+        "salt": "7",
+        "type": 1,
+        "inventory_number": 8470
+      },
+      {
+        "goods_id": "453",
+        "goods_name": "纸皮核桃 180g*2袋",
+        "goods_describe": "随手一捏，一整个核桃肉",
+        "image_url": "http://img2.vipbcw.com/2017/06/0e3c6a6531f1133b1073e5e9fe5d1ddd",
+        "goods_price": "20.90",
+        "salt": "7",
+        "type": 1,
+        "inventory_number": 8469
+      },
+      {
+        "goods_id": "2365",
+        "goods_name": "【2盒装】紫薯条90g/盒",
+        "goods_describe": "香脆有味，健康滋味",
+        "image_url": "http://img2.vipbcw.com/2017/07/e3982dfba589dbc27e438e56e47ec39f",
+        "goods_price": "18.90",
+        "salt": "8",
+        "type": 1,
+        "inventory_number": 996
+      },
+      {
+        "goods_id": "1660",
+        "goods_name": "蔓越莓曲奇饼干100g*3袋",
+        "goods_describe": "悠闲下午茶怎能少了它！",
+        "image_url": "http://img2.vipbcw.com/2017/04/a67ef1d7f89ae728e106d699d71fe1a6",
+        "goods_price": "21.80",
+        "salt": "8",
+        "type": 1,
+        "inventory_number": 3869
+      },
+      {
+        "goods_id": "260",
+        "goods_name": "猪肉枣180g/袋",
+        "goods_describe": "紧实有嚼劲，有肉就有力量。",
+        "image_url": "http://img2.vipbcw.com/2017/04/aa846199a02bcdad96c7c79bb43f0e3d",
+        "goods_price": "17.90",
+        "salt": "10",
+        "type": 1,
+        "inventory_number": 7176
+      },
+      {
+        "goods_id": "576",
+        "goods_name": "【夹心麻薯210gx3袋】红豆/抹茶/芒果3种口味",
+        "goods_describe": "吃货说：入口那个软啊，真是让人陶醉。",
+        "image_url": "http://img2.vipbcw.com/2017/04/94dd33c9cc3fee7fcf30357c9be4dd97",
+        "goods_price": "29.90",
+        "salt": "10",
+        "type": 1,
+        "inventory_number": 6642
+      }
+    ],
+    "list_info": {
+      "list_count": 4,
+      "list_ordinal": "1",
+      "object_count": 35
+    }
+  }
+}
+

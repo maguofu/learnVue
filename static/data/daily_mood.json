@@ -1,0 +1,110 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": {
+        "userInfo": {
+            "nickname": "18341324973",
+            "avatar": "http://app.static.vipbcw.com/index_icon/default_header1.png",
+            "integration": "100",
+            "manyDays": 2
+        },
+        "isRemind": 0,
+        "taskInfo": {
+            "now": 0,
+            "sum": 6
+        },
+        "signInfo": [
+            {
+                "date": "2017-07-09",
+                "str": "07.09",
+                "integral": 0,
+                "isSign": 0
+            },
+            {
+                "date": "2017-07-10",
+                "str": "07.10",
+                "integral": 0,
+                "isSign": 0
+            },
+            {
+                "date": "2017-07-11",
+                "str": "07.11",
+                "integral": 0,
+                "isSign": 0
+            },
+            {
+                "date": "2017-07-12",
+                "str": "今天",
+                "signDay": 1,
+                "integral": 5,
+                "isSign": 0
+            },
+            {
+                "date": "2017-07-13",
+                "str": "明天",
+                "integral": 10,
+                "isSign": 0
+            },
+            {
+                "date": "2017-07-14",
+                "str": "07.14",
+                "integral": 15,
+                "isSign": 0
+            },
+            {
+                "date": "2017-07-15",
+                "str": "07.15",
+                "integral": 20,
+                "isSign": 0
+            }
+        ],
+        "everyInfo": [
+            {
+                "content": "一时得不到的东西，<br/>等一等未必是坏事，<br/>就像心急吃不了热豆腐，<br/>可以先凉拌呀。",
+                "content_img": "http://img2.vipbcw.com/2017/07/0823dc88230b473b3722a76a842baa5f",
+                "date": "2017-07-06",
+                "share_img": "http://img2.vipbcw.com/d6904f7eb68ff640513cc5fad125703f"
+            },
+            {
+                "content": "世界上最快乐的事是吃，<br/>第二快乐的是待会吃。",
+                "content_img": "http://img2.vipbcw.com/2017/07/d45ba64b82226a899d1261c9ea02291f",
+                "date": "2017-07-07",
+                "share_img": "http://img2.vipbcw.com/2e48493f687a86908a5033c5213ea045"
+            },
+            {
+                "content": "如果夜里不能吃东西，<br/>那么冰箱为什么会有灯。",
+                "content_img": "http://img2.vipbcw.com/2017/07/31c8e2e158bc6467a153c0163499b0f2",
+                "date": "2017-07-08",
+                "share_img": "http://img2.vipbcw.com/431fc23a130ebd073126419b41fc263a"
+            },
+            {
+                "content": "人呐，要常常激励自己，<br/>不好好工作，不好好恋爱，<br/>如何对得起那些你吃的猪羊牛鸭猪呢。",
+                "content_img": "http://img2.vipbcw.com/2017/07/b976d2cb9282806cc389ac03e26cd198",
+                "date": "2017-07-09",
+                "share_img": "http://img2.vipbcw.com/2a8ff885f4a788182aaae732a2e49295"
+            },
+            {
+                "content": "有人说早餐是城市的良心，<br/>夜宵是城市的灵魂，<br/>而我只爱夜宵，<br/>每晚渴望与不同灵魂伴侣相遇。",
+                "content_img": "http://img2.vipbcw.com/2017/07/9e97f7c56ae30c7a25d7bd4b59d1e989",
+                "date": "2017-07-10",
+                "share_img": "http://img2.vipbcw.com/699b427e7893f96cef1221f67af06e0a"
+            },
+            {
+                "content": "希望一些朋友明白<br/>一口吃不成胖子是劝诫大家<br/>做事别急于求成<br/>而不是你再吃几口也不胖的安慰",
+                "content_img": "http://img2.vipbcw.com/2017/07/e985d60df64b876c9d6d53b2d9ef9a5a",
+                "date": "2017-07-11",
+                "share_img": "http://img2.vipbcw.com/139ad203b1df9c43460d798babe0da72"
+            },
+            {
+                "content": "喜欢你<br/>像夏天的火锅，冬天的冰激凌，<br/>撩动人心，<br/>却又不合时宜。",
+                "content_img": "http://img2.vipbcw.com/2017/07/562023e72e6506b859856bbacffc5a83",
+                "date": "2017-07-12",
+                "share_img": "http://img2.vipbcw.com/d822c93c64683bed1ea488eda1a9ebf4"
+            }
+        ],
+        "bannerInfo": {
+            "banner": [],
+            "images": []
+        }
+    }
+}

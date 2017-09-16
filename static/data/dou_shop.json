@@ -1,0 +1,117 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": {
+        "goods_list": [
+            {
+                "goods_id": "321",
+                "goods_img": "http://img2.vipbcw.com/2017/05/4facc166b4cc3c01888bbaae5045944b",
+                "goods_name": "20元优惠券",
+                "goods_desc": "有效期1天，全场通用",
+                "integration_number": "570",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 70,
+                "shop_price": "0",
+                "status": 2
+            },
+            {
+                "goods_id": "336",
+                "goods_img": "http://img2.vipbcw.com/2017/06/b3c34c2714df97fef3378849f848d88d",
+                "goods_name": "包邮券",
+                "goods_desc": "满49元包邮券，每日限量10张",
+                "integration_number": "700",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 1,
+                "shop_price": "0",
+                "status": 2
+            },
+            {
+                "goods_id": "241",
+                "goods_img": "http://img2.vipbcw.com/2017/04/b29f42cbf71f05d64a05851b19f0aa80",
+                "goods_name": "5元优惠券",
+                "goods_desc": "有效期1天，全场通用",
+                "integration_number": "110",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 67,
+                "shop_price": "0",
+                "status": 2
+            },
+            {
+                "goods_id": "242",
+                "goods_img": "http://img2.vipbcw.com/2017/04/e21fd244ceca469b5bba013dc494be21",
+                "goods_name": "10元优惠券",
+                "goods_desc": "有效期1天，全场通用",
+                "integration_number": "270",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 88,
+                "shop_price": "0",
+                "status": 2
+            },
+            {
+                "goods_id": "339",
+                "goods_img": "http://img2.vipbcw.com/2017/06/214404b3e84acbbedd503d676ce34f7d",
+                "goods_name": "【单品券】台湾老杨咸蛋黄饼100g",
+                "goods_desc": "邮费7元",
+                "integration_number": "3100",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 19,
+                "shop_price": "0",
+                "status": 2
+            },
+            {
+                "goods_id": "202",
+                "goods_img": "http://img2.vipbcw.com/2017/02/451eabbe10dcce62a2f889b4518b32b1",
+                "goods_name": "【单品券】大哥鸡味花生豆230g",
+                "goods_desc": "邮费7元",
+                "integration_number": "2250",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 0,
+                "shop_price": "0",
+                "status": 2
+            },
+            {
+                "goods_id": "335",
+                "goods_img": "http://img2.vipbcw.com/2017/06/6a9f318b4a6c99ad169d79edbd015dcd",
+                "goods_name": "【单品券】大哥的故事虾酥40g",
+                "goods_desc": "邮费7元",
+                "integration_number": "900",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 7,
+                "shop_price": "0",
+                "status": 2
+            },
+            {
+                "goods_id": "268",
+                "goods_img": "http://img2.vipbcw.com/2017/04/67d4021e18e34e345bb0e11fdce86514",
+                "goods_name": "【单品券】VFOODS MIX原味脆脆条75g",
+                "goods_desc": "邮费7元 每人限兑3次",
+                "integration_number": "1200",
+                "goods_type": "0",
+                "level_type": "0",
+                "level_tag": "http://app.static.vipbcw.com/user_icon/vLabel0.png",
+                "stock_number": 3,
+                "shop_price": "0",
+                "status": 2
+            }
+        ],
+        "list_info": {
+            "list_count": 1,
+            "list_ordinal": 1,
+            "object_count": "8"
+        }
+    }
+}

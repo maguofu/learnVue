@@ -1,0 +1,215 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": {
+        "good_double_id": [
+            {
+                "goods": [
+                    {
+                        "id": "209",
+                        "goods_name": "大山核桃仁158g/袋",
+                        "goods_subtitle": "选自河南的山核桃，颗粒饱满有型，淳朴自然，不用费劲剥壳，张嘴就有美味，吃起来嘎嘣脆，还有浓浓的奶油味，回味无穷。",
+                        "shop_price": "24.80",
+                        "market_price": "59.90",
+                        "goods_img": "http://img2.vipbcw.com/583fb83528ef31007",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1446",
+                        "goods_name": "【进口美食】【2罐装】泰国大哥牌香脆日本芥末花生豆230g",
+                        "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。花生搭配香辣的芥末，鲜香的味道，一口又一口，一颗又一颗，办公室里来一颗，瞬间变身人气王",
+                        "shop_price": "29.80",
+                        "market_price": "53.60",
+                        "goods_img": "http://img2.vipbcw.com/5826e96d8168a6505",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1183",
+                        "goods_name": "【进口美食】【2袋装】越南沙巴哇综合蔬果干180g",
+                        "goods_subtitle": "清甜回甘的菠萝蜜干，酸酸甜甜的芭蕉干，香喷爽口的芋头条，酥香响脆的紫薯干，嚼劲十足的甘薯干。注：发货地：浙江杭州，默认发申通，EMS，圆通快递",
+                        "shop_price": "35.80",
+                        "market_price": "64.40",
+                        "goods_img": "http://img2.vipbcw.com/58197ea2a099e7969",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "805",
+                        "goods_name": "【3袋装】蟹香蚕豆180g/袋",
+                        "goods_subtitle": "蟹香融入大颗粒的蚕豆豆瓣，让人忍不住吮指回味，一边嚼一边听着嘎嘣嘎嘣的声音，简直想把全世界形容脆的词语都按到它头上~",
+                        "shop_price": "20.90",
+                        "market_price": "52.80",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/b11d9b9e682451c521fc8823f31c0291",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "2168",
+                        "goods_name": "【2袋装】白芝麻猪肉脯（自然片）180g/袋",
+                        "goods_subtitle": "红白协奏，芝香肉味，自然片肆意畅吃个痛快。独立包装齐分享",
+                        "shop_price": "36.80",
+                        "market_price": "79.90",
+                        "goods_img": "http://img2.vipbcw.com/2017/05/d32eb6fbdd70f217706ea3b0510a61b0",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1433",
+                        "goods_name": "蜜桃乌龙茶35g",
+                        "goods_subtitle": "生活的小心思都酿在一杯果茶里，蜜桃甜美，乌龙甘醇，啜一口茶香萦绕。下午茶时分，来一杯真是极好的！",
+                        "shop_price": "29.90",
+                        "market_price": "68.90",
+                        "goods_img": "http://img2.vipbcw.com/58268a066ec9d1662",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1518",
+                        "goods_name": "【进口美食】【2袋装】印尼啪啪通虾片原味85g",
+                        "goods_subtitle": "一口打通你的任督二脉，鲜美的虾味来自从海里即刻捕捞的新鲜大虾，经历烤箱的锤炼，终于成为酥脆美味的优质虾片，旅游带一包，亮虾味蕾！",
+                        "shop_price": "27.80",
+                        "market_price": "50.00",
+                        "goods_img": "http://img2.vipbcw.com/582d17a6a6cd48355",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "823",
+                        "goods_name": "【2袋装】一级和田骏枣360g/袋",
+                        "goods_subtitle": "和田红枣的色泽不深不浅，味道甜而不腻，枣壳小果肉甜糯细腻还会回弹，闻着有淡淡的枣香，一丢丢粘牙的感觉都没有，姨妈过后来几颗气色好",
+                        "shop_price": "46.90",
+                        "market_price": "98.80",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/84a3f9c5e02d27380f0e291722e4e938",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1603",
+                        "goods_name": "【2盒装】蔓越莓核桃仁160g/盒",
+                        "goods_subtitle": "蔓越莓干鲜嫩酸甜，核桃香脆绕齿，刚刚好的爱情，就是你的俏皮酸甜，我的含蓄酥脆，搭在一起，原味不失真，混合更新鲜！",
+                        "shop_price": "58.90",
+                        "market_price": "136.00",
+                        "goods_img": "http://img2.vipbcw.com/2016/12/3e77ac0c745a05f457f0d82dc97e8f36",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1986",
+                        "goods_name": "【2盒装】抱抱果灰枣夹核桃仁235g/盒",
+                        "goods_subtitle": "甜蜜抱一抱，幸福抱一抱，温暖抱一抱，爱的力量抱一抱。",
+                        "shop_price": "56.90",
+                        "market_price": "119.80",
+                        "goods_img": "http://img2.vipbcw.com/2017/01/60b8da50570e387ad0f66597696ec23d",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "861",
+                        "goods_name": "【进口美食】香港Canute咖啡味曲奇饼干160g",
+                        "goods_subtitle": "赏味期至2017年8月2日，介意的亲慎拍；注：发货地：浙江杭州，默认发申通，EMS，圆通快递。多国原料造就香浓咖啡味，直击心灵的松脆，疏松到入口即化。",
+                        "shop_price": "48.00",
+                        "market_price": "100.80",
+                        "goods_img": "http://img2.vipbcw.com/5805dbad1c47a3481",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "810",
+                        "goods_name": "【2袋装】碧根果仁168g/袋",
+                        "goods_subtitle": "想大口吃肥厚酥脆的果肉~就像小味家颜高味好的碧根果仁，又大又饱满，扔进嘴巴就可以大嚼特嚼，偷偷告诉你，组合更优惠哦！",
+                        "shop_price": "64.90",
+                        "market_price": "104.80",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/46d497d2443f0be5c1b55659e91d9e5f",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "2302",
+                        "goods_name": "【进口美食】【2包装】台湾三点一刻黑糖姜母茶75g",
+                        "goods_subtitle": "注：发货地：浙江海宁，默认发圆通快递。细红茶粉搭配黑糖姜母，从根本上保证绿色健康，清新淡甜而不腻，大姨妈来的那几天就喝它！",
+                        "shop_price": "32.80",
+                        "market_price": "48.90",
+                        "goods_img": "http://img2.vipbcw.com/2017/06/e622c1152dd53201f34bff63928d2ad9",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1442",
+                        "goods_name": "【进口美食】【2罐装】泰国大哥椰浆味花生豆240g",
+                        "goods_subtitle": "赏味期至2017年8月26日，介意的亲慎拍！注：发货地：浙江杭州，默认发申通，EMS，圆通快递。花生搭配椰子的香味，一口又一口，一颗又一颗，松松脆脆一大罐。",
+                        "shop_price": "29.80",
+                        "market_price": "53.60",
+                        "goods_img": "http://img2.vipbcw.com/5826cf85a950a9016",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1593",
+                        "goods_name": "【进口零食】【6罐装】荷兰bigbang含气瓜拉纳饮料250ml",
+                        "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。在某个时刻，只听从内心的原野呼唤，不因盲从而追随，不因放纵而菲薄，走更远的路，翻更高的山，bigbang能量，年轻不一样",
+                        "shop_price": "46.80",
+                        "market_price": "88.90",
+                        "goods_img": "http://img2.vipbcw.com/2017/05/c561ea9f219d39039ecc55b152c8297f",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1676",
+                        "goods_name": "【进口美食】马来西亚益昌老街三合一白咖啡减少糖600g",
+                        "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。少糖，不仅仅是更健康，更是凸显了白咖啡的浓郁口感，苦里带着一点甜，更像是生活的味道！",
+                        "shop_price": "43.80",
+                        "market_price": "52.80",
+                        "goods_img": "http://img2.vipbcw.com/5837fb84031119601",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1521",
+                        "goods_name": "【进口美食】【2袋装】印尼啪啪通虾片烤番茄味85g",
+                        "goods_subtitle": "酸酸甜甜的番茄味虾片一直都是虾片界的翘楚，虾片的鲜来自深海捕捞的鲜虾，加上薯片的脆，一口立马爱上它。酸甜又爽脆，办公室好搭档。",
+                        "shop_price": "27.80",
+                        "market_price": "50.00",
+                        "goods_img": "http://img2.vipbcw.com/582d3dae472436242",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1673",
+                        "goods_name": "【进口美食】马来西亚益昌老街卡布奇诺咖啡125g",
+                        "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。颗颗精选，从一颗豆子开始，意式风味，奶香浓郁，跨越大洋的香滑，喝一杯咖啡，享受一天好心情！",
+                        "shop_price": "29.90",
+                        "market_price": "42.80",
+                        "goods_img": "http://img2.vipbcw.com/583b9cfd3c3895076",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "865",
+                        "goods_name": "【进口美食】香港Canute慕斯味曲奇饼干160g",
+                        "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。你试过入口即化的曲奇吗？酥松柔滑到直击心灵，打开 袋子香香慕斯味。",
+                        "shop_price": "48.00",
+                        "market_price": "100.80",
+                        "goods_img": "http://img2.vipbcw.com/5805e6af363f41968",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    },
+                    {
+                        "id": "1675",
+                        "goods_name": "【进口美食】马来西亚益昌老街三合一原味白咖啡600g",
+                        "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。咖啡豆采用独特低温烘焙工艺，保留了南洋白咖啡独有的香醇丝滑，令人回味无穷！",
+                        "shop_price": "43.80",
+                        "market_price": "52.80",
+                        "goods_img": "http://img2.vipbcw.com/5837f95a486153020",
+                        "cart_picture": "",
+                        "tag_picture": ""
+                    }
+                ],
+                "nav_word": "",
+                "main_image_url": ""
+            }
+        ],
+        "activity_type": "0"
+    }
+}

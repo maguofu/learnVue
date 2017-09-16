@@ -1,0 +1,68 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": {
+        "list": [
+            {
+                "color": "#FF4F39",
+                "word": "夏日新食力",
+                "url": "https://m.vipbcw.com/activity/detail/489",
+                "salt": "6"
+            },
+            {
+                "color": "#63686C",
+                "word": "新品",
+                "url": "",
+                "salt": "5"
+            },
+            {
+                "color": "#FF4F39",
+                "word": "果干",
+                "url": "",
+                "salt": "5"
+            },
+            {
+                "color": "#63686C",
+                "word": "芒果干",
+                "url": "",
+                "salt": "4"
+            },
+            {
+                "color": "#63686C",
+                "word": "夏威夷果",
+                "url": "",
+                "salt": "3"
+            },
+            {
+                "color": "#63686C",
+                "word": "精选礼盒",
+                "url": "https://m.vipbcw.com/activity/tpl/126.html",
+                "salt": "2"
+            },
+            {
+                "color": "#63686C",
+                "word": "麻薯",
+                "url": "",
+                "salt": "2"
+            },
+            {
+                "color": "#FF4F39",
+                "word": "包邮专区",
+                "url": "https://m.vipbcw.com/activity/tpl/126.html",
+                "salt": "1"
+            },
+            {
+                "color": "#63686C",
+                "word": "猪肉脯",
+                "url": "",
+                "salt": ""
+            },
+            {
+                "color": "#FF4F39",
+                "word": "早餐糕点",
+                "url": "",
+                "salt": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,213 @@
+{
+  "result_code": "0",
+  "result_info": "操作成功",
+  "result_data": {
+    "goods_inventory": "1824",
+    "goods_id": "2284",
+    "brand_id": "1",
+    "brand_name": "百草味",
+    "buy_limit_count": "10",
+    "cat_id": "16",
+    "goods_icon": "http://img2.vipbcw.com/2017/06/52ad6f1c1e905a446e1a9c9dffea193b",
+    "goods_imgs": [
+      "http://img2.vipbcw.com/2017/06/4cbf349cdc870a870ed7b2563a4f239b",
+      "http://img2.vipbcw.com/2017/06/c80de26028c26513ce9f0d314855ce93",
+      "http://img2.vipbcw.com/2017/06/c157899daf38c7cea36caf3079e17766",
+      "http://img2.vipbcw.com/2017/06/986bfafb8174419624e3ccf3da681b6c",
+      "http://img2.vipbcw.com/2017/06/b44f79e0a049c3a661c5df544482c93b"
+    ],
+    "goods_title_url": "https://m.vipbcw.com/data-list/detail-goods?id=2284&spm=MA==",
+    "goods_info": "<img src=\"http://img2.vipbcw.com/2017/06/99fee132eabf44b56ccfd28a6d773b7d\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/06/1423ec4ab838fdae9446665922e76b1c\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/06/0c4264e75950dc7426ca4bab52c354c2\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/06/aaf7580e9200f12e5d514dfae17a7750\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/06/f705f81e461dceffef162801296f6f7a\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/06/5809f03448e32c698c403bd8567cb92e\" alt=\"\" /><img src=\"http://img2.vipbcw.com/2017/06/55f7f4b040d58dd71a61db7ab8cc94da\" alt=\"\" />",
+    "goods_name": "芋头条90g/盒",
+    "goods_title": "芋头条90g/盒",
+    "goods_subtitle": "香芋每一刻，自然好味道。独立小包装，分享更美味。",
+    "goods_specification": "90g/盒",
+    "goods_sn": "6948939645364",
+    "goods_weight": "90",
+    "market_price": "25.9",
+    "shop_price": "13.9",
+    "subtitle": "",
+    "is_promote": 0,
+    "activityIco": "包邮",
+    "activityUrl": "",
+    "act_type": 6,
+    "goods_sale_plan": "全场满68元享包邮",
+    "collection": 0,
+    "goods_status": "1",
+    "national_flag": "",
+    "status": "1",
+    "graphic_detail_url": "https://m.vipbcw.com/home/show-good?id=2284",
+    "now_time": 1500021252,
+    "integration_number": 0,
+    "is_shared": 0,
+    "share_bottom_title": "",
+    "share_bottom_words": "",
+    "goods_tips": "",
+    "middle_banner_image_url": "http://img2.vipbcw.com/2017/07/d3f4168a0c65a472e2894989115b377c",
+    "middle_banner_skip_url": "/activity/detail/500",
+    "promote_start_date": "1497888000",
+    "promote_end_date": "1500516000",
+    "limit_goods_number": "2000",
+    "rest_goods_number": "1824",
+    "icon_pic": "",
+    "promote_type": "促销活动",
+    "background": "",
+    "shop_pirce_color": "",
+    "market_price_color": "",
+    "time_color": "",
+    "share_goods_title": "芋头条90g/盒",
+    "share_goods_desc": "芋头条90g/盒",
+    "share_goods_imgs": "http://img2.vipbcw.com/2017/06/52ad6f1c1e905a446e1a9c9dffea193b",
+    "share_goods_link": "https://m.vipbcw.com/data-list/detail-goods?id=2284&spm=MA==",
+    "recommend_goods": [
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2016/12/00e07a72c71e078c20aed3c0bc0c52d3",
+        "goods_img": "http://img2.vipbcw.com/2016/12/00e07a72c71e078c20aed3c0bc0c52d3",
+        "goods_id": "878",
+        "goods_name": "进口美食",
+        "is_import": "1",
+        "goods_title": "【进口美食】香港Canute特浓牛乳味曲奇饼干120g",
+        "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。打开袋子就是浓浓奶香袭击嗅觉神经，轻轻咬一口立马碎开，松脆到惊人。早餐两三包，搭上牛奶，浓郁更加倍！",
+        "subtitle": "香港Canute特浓牛乳味曲奇饼干120g",
+        "market_price": 75.6,
+        "shop_price": "42.00",
+        "sell_number": "39",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/57f745f46e9933481",
+        "goods_img": "http://img2.vipbcw.com/57f745f46e9933481",
+        "goods_id": "207",
+        "goods_name": "抹茶味麻薯210g/袋",
+        "is_import": "0",
+        "goods_title": "抹茶味麻薯210g/袋",
+        "goods_subtitle": "浓浓抹茶味，Q弹糯米感，好吃不腻，早餐点心必备。独立包装，美味齐分享。",
+        "subtitle": "",
+        "market_price": 22.8,
+        "shop_price": "9.90",
+        "sell_number": "10434",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/582598b1dc1371453",
+        "goods_img": "http://img2.vipbcw.com/582598b1dc1371453",
+        "goods_id": "1428",
+        "goods_name": "混合蔬果条90g/袋",
+        "is_import": "0",
+        "goods_title": "混合蔬果条90g/袋",
+        "goods_subtitle": "酥脆健康，休闲时刻来一包。1盒内含5袋独立小包，分享更美味。",
+        "subtitle": "",
+        "market_price": 25.9,
+        "shop_price": "14.80",
+        "sell_number": "340",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/583fb2c3df5697161",
+        "goods_img": "http://img2.vipbcw.com/583fb2c3df5697161",
+        "goods_id": "1296",
+        "goods_name": "巴旦木仁夹心海苔脆40g/盒",
+        "is_import": "0",
+        "goods_title": "巴旦木仁夹心海苔脆40g/盒",
+        "goods_subtitle": "单吃海苔不带劲，单吃巴旦木仁不过瘾，这次终于可以把果仁和海苔一网打尽了，果仁香海苔脆，交替轰炸味蕾。独立小包装，旅行随身吃！",
+        "subtitle": "",
+        "market_price": 19.9,
+        "shop_price": "19.90",
+        "sell_number": "256",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/2017/05/a4d64962a1697ffe7b9bfb38bbed753e",
+        "goods_img": "http://img2.vipbcw.com/2017/05/a4d64962a1697ffe7b9bfb38bbed753e",
+        "goods_id": "2221",
+        "goods_name": "海苔卷（原味）30g",
+        "is_import": "0",
+        "goods_title": "海苔卷（原味）30g",
+        "goods_subtitle": "来自深海的味道，就酱脆",
+        "subtitle": "",
+        "market_price": 28.8,
+        "shop_price": "14.90",
+        "sell_number": "127",
+        "icon_pic": ""
+      },
+      {
+        "buy_limit_count": "0",
+        "goods_icon": "http://img2.vipbcw.com/582ab1d51f1468015",
+        "goods_img": "http://img2.vipbcw.com/582ab1d51f1468015",
+        "goods_id": "1294",
+        "goods_name": "南瓜籽夹心海苔脆40g/盒",
+        "is_import": "0",
+        "goods_title": "南瓜籽夹心海苔脆40g/盒",
+        "goods_subtitle": "双层海苔拥抱着香酥南瓜籽，撒上些许白芝麻。果仁香脆，海苔鲜脆，交替袭击你的胃，内置独立小包装，旅行随身带着吃！",
+        "subtitle": "",
+        "market_price": 19.9,
+        "shop_price": "12.90",
+        "sell_number": "58",
+        "icon_pic": ""
+      }
+    ],
+    "service_images_url": "http://img2.vipbcw.com/2017/07/742fdb2f1401c7109a2e853fa13eab4d",
+    "instructions": [
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/e35cf6b86ace27fd6686dbbaab800197",
+        "title": "购物赚味豆",
+        "content": "下单即享实付金额等值味豆，首次下单享受双倍味豆"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/18321cd487c65e5e00d70fe5efd494f9",
+        "title": "快速发货",
+        "content": "10大分仓速递，48小时内发货"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/0c492659e9d4566f9408e6710cce4d9e",
+        "title": "正品保障",
+        "content": "品牌直销，品质保证"
+      },
+      {
+        "icon": "http://img2.vipbcw.com/2017/07/bb57ffd8ba9b052ac0b76585c6bb1ad4",
+        "title": "优质服务",
+        "content": "30天无理由退换货"
+      }
+    ],
+    "comments": {
+      "comments_count": "68",
+      "comments_list": [
+        {
+          "comment_id": "1435895",
+          "comment_rank": 5,
+          "content": "好吃好吃",
+          "comment_img": [],
+          "username": "抽风的滚滚",
+          "status": "1",
+          "user_id": "298362",
+          "head_img": "http://tva3.sinaimg.cn/crop.0.0.720.720.180/bed47ad0jw8efgeh1cr15j20k00k0q3p.jpg",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味281天"
+        },
+        {
+          "comment_id": "1435590",
+          "comment_rank": 5,
+          "content": "好香好脆",
+          "comment_img": [],
+          "username": "meimei",
+          "status": "1",
+          "user_id": "323939",
+          "head_img": "http://img2.vipbcw.com/1498101669338.png",
+          "admin_reply": "",
+          "admin_name": "小编",
+          "join_time": "加入百草味268天"
+        }
+      ]
+    },
+    "goods_tags": [
+      "活动促销",
+      "限购10件"
+    ]
+  }
+}

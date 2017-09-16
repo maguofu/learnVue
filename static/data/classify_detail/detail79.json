@@ -1,0 +1,65 @@
+{
+    "result_code": "0",
+    "result_info": "操作成功",
+    "result_data": {
+        "list": [
+            {
+                "goods_id": "1944",
+                "goods_title": "【进口美食】希腊乔克蒂姆疯狂鸟牛奶排块巧克力100g",
+                "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。愤怒的小鸟形象外包装，外形纤薄精巧，丝滑牛奶邂逅香浓巧克力，入口醇正，芬香浓郁，甜而不腻，感受下愤怒的小鸟对你味蕾的冲击。",
+                "goods_sn": "5202659611049",
+                "market_price": "36.9",
+                "shop_price": "21.9",
+                "goods_icon": "http://img2.vipbcw.com/2016/12/1132d09a40864598e807d26219d7a759",
+                "buy_limit_count": "0",
+                "goods_number": "41",
+                "sell_number": "125",
+                "comment_number": "0",
+                "is_import": "1",
+                "status": "1",
+                "show_price": "0",
+                "sell_sort": "0"
+            },
+            {
+                "goods_id": "1686",
+                "goods_title": "【进口美食】法国费罗伦蜂蜜糖球水果糖（巨蟹座）227g",
+                "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。可爱甜腻的蜂蜜糖球，就像巨蟹宝宝坚硬外衣下的意思柔软甜蜜。无聊解闷，来一颗专为巨蟹宝宝定制的小糖球才特别！",
+                "goods_sn": "089697600175",
+                "market_price": "51.8",
+                "shop_price": "28.8",
+                "goods_icon": "http://img2.vipbcw.com/2016/12/d1fade1c1008c23312fc0254f613088e",
+                "buy_limit_count": "0",
+                "goods_number": "13",
+                "sell_number": "84",
+                "comment_number": "0",
+                "is_import": "1",
+                "status": "1",
+                "show_price": "0",
+                "sell_sort": "0"
+            },
+            {
+                "goods_id": "1942",
+                "goods_title": "【进口美食】希腊乔克蒂姆冰雪牛奶排块巧克力100g",
+                "goods_subtitle": "注：发货地：浙江杭州，默认发申通，EMS，圆通快递。冰雪奇缘外包装，外形纤薄精巧，丝滑牛奶邂逅香浓巧克力，入口即化，感受下冰雪公主带来的最醇正的味觉体验。",
+                "goods_sn": "5202659381041",
+                "market_price": "36.9",
+                "shop_price": "21.9",
+                "goods_icon": "http://img2.vipbcw.com/2017/07/4445d75faae0183c715bd049e52e9b9e",
+                "buy_limit_count": "0",
+                "goods_number": "118",
+                "sell_number": "46",
+                "comment_number": "0",
+                "is_import": "1",
+                "status": "1",
+                "show_price": "0",
+                "sell_sort": "0"
+            }
+        ],
+        "list_info": {
+            "list_count": 1,
+            "list_ordinal": 1,
+            "cat_name": "进口糖果",
+            "object_count": "3"
+        }
+    }
+}
