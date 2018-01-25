@@ -1,0 +1,171 @@
+{ 
+  "gets": [
+    {
+      "id": "menus",
+      "errNo": "0",
+      "errStr": "success",
+      "data": {
+        "strMessage": "",
+        "menuList": [
+          {
+            "name": "student",
+            "label": "学生相关",
+            "routerName": "student",
+            "children": [
+              {
+                "name": "studentInfo",
+                "label": "学生信息查询",
+                "routerName": "studentInfo"
+              },
+              {
+                "name": "studentOnlineStatusInfo",
+                "label": "学生在线状态查询",
+                "routerName": "studentOnlineStatusInfo"
+              },
+              {
+                "name": "studentCoupon",
+                "label": "学生优惠卷查询",
+                "routerName": "studentCoupon"
+              },
+              {
+                "name": "studentScore",
+                "label": "学生学分查询",
+                "routerName": "studentScore"
+              },
+              {
+                "name": "studentInteractive",
+                "label": "学生互动题查询",
+                "routerName": "studentInteractive"
+              },
+              {
+                "name": "studentTrade",
+                "label": "学生订单查询",
+                "routerName": "studentTrade"
+              },
+              {
+                "name": "studentChangeCourse",
+                "label": "学生调课查询",
+                "routerName": "studentChangeCourse"
+              }
+            ]
+          },
+          {
+            "name": "course",
+            "label": "课程相关",
+            "routerName": "course",
+            "children": [
+              {
+                "name": "courseInfo",
+                "label": "课程信息查询",
+                "routerName": "courseInfo"
+              }
+            ]
+          },
+          {
+            "name": "lesson",
+            "label": "章节相关",
+            "routerName": "lesson",
+            "children": [
+              {
+                "name": "lessonInfo",
+                "label": "章节信息查询",
+                "routerName": "lessonInfo"
+              }
+            ]
+          },
+          {
+            "name": "homeworkDayi",
+            "label": "作业答疑相关",
+            "routerName": "homeworkDayi",
+            "children": [
+              {
+                "name": "homeworkInfo",
+                "label": "学生课后作业查询",
+                "routerName": "homeworkInfo"
+              }
+            ]
+          },
+          {
+            "name": "resourceDownload",
+            "label": "下载相关",
+            "routerName": "resourceDownload",
+            "children": [
+              {
+                "name": "previewClassDownload",
+                "label": "课前预习",
+                "routerName": "previewClassDownload"
+              },
+              {
+                "name": "lessonNoteDownload",
+                "label": "课堂笔记",
+                "routerName": "lessonNoteDownload"
+              }
+            ]
+          },
+          {
+            "name": "other",
+            "label": "其他",
+            "routerName": "other",
+            "children": [
+              {
+                "name": "updateexercisedetailexerciseid",
+                "label": "更换课后习题详情表中的习题id",
+                "routerName": "updateexercisedetailexerciseid"
+              },
+              {
+                "name": "homeworkstudentagainanswer",
+                "label": "学生重新做课后作业",
+                "routerName": "homeworkstudentagainanswer"
+              },
+              {
+                "name": "homeworkassistantagaincorrect",
+                "label": "助教重批改课后作业",
+                "routerName": "homeworkassistantagaincorrect"
+              },
+              {
+                "name": "dayideletequestion",
+                "label": "答疑问题删除",
+                "routerName": "dayideletequestion"
+              },
+              {
+                "name": "dayiagainanswerquestion",
+                "label": "答疑问题重新批改",
+                "routerName": "dayiagainanswerquestion"
+              },
+              {
+                "name": "remarkNotDoExam",
+                "label": "标记无需报后测",
+                "routerName": "remarkNotDoExam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "updateexercisedetailexerciseid",
+      "errNo": "0",
+      "errStr": "success",
+      "data": {
+        "strMessage": "哎哟！太牛逼了，更换课后习题详情表中的习题id成功！！",
+        "status": 1
+      }
+    }
+  ],
+  "posts": [
+  {
+    "id": 1,
+    "title": "json-server",
+    "author": "typicode"
+  }],
+  "comments": [
+  {
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
+  }],
+  "profile":
+  {
+    "name": "typicode"
+  }
+}

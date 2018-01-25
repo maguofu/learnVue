@@ -27,6 +27,7 @@
 </template>
 <script src="../../../static/jquery-1.11.2.min.js"></script>
 <script>
+	import api from '../../api/api.js'
 	export default {
 		data () {
 			return {
@@ -70,6 +71,11 @@
 			},
 		},
 		created () {
+			// 本地模拟数据，走真是接口（在config/index配置代理）
+			// console.log(api.getMenus)
+			// this.$http.get(api.getMenus).then(res => {
+			// 	console.log(res, 'apiapi')
+			// })
 			this.id = this.$route.query.id;
 			this.titleHead = this.$route.params.title;
 			this.getClassifyDataDetail(); 
