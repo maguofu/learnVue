@@ -28,13 +28,13 @@ module.exports = {
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
     proxyTable: {
-      '/api': {
+      /* '/api': {
         target: 'http://test35.suanshubang.com', // 接口域名
         changeOrigin: true, //是否跨域
         pathRewrite: {
           '^/api': 'http://localhost:9999' //需要rewrite的,
         }
-      }
+      } */
     },
     // CSS Sourcemaps off by default because relative paths are "buggy"
     // with this option, according to the CSS-Loader README
